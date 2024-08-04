@@ -8,7 +8,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/translation-service.git
+    git clone https://github.com/idashbox/Translator_App
     ```
 
 2. Перейдите в директорию проекта:
